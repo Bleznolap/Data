@@ -1,4 +1,4 @@
-Datasets references: 
+Datasets reference: 
 
 - Phenotypes.txt and ebvs.txt at [Cleveland et al.](https://academic.oup.com/g3journal/article/2/4/429/6026060?login=true#supplementary-data)
 
